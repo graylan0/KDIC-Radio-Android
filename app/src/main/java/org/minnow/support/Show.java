@@ -1,8 +1,8 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 
-import edu.grinnell.kdic.schedule.ScheduleRecyclerItem;
-import edu.grinnell.kdic.schedule.ScheduleRecyclerViewAdapter;
+import org.minnow.support.schedule.ScheduleRecyclerItem;
+import org.minnow.support.schedule.ScheduleRecyclerViewAdapter;
 
 public class Show extends ScheduleRecyclerItem {
 

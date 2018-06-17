@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -17,9 +17,9 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 
-import edu.grinnell.kdic.Constants;
-import edu.grinnell.kdic.R;
-import edu.grinnell.kdic.Show;
+import org.minnow.support.Constants;
+import org.minnow.support.R;
+import org.minnow.support.Show;
 
 public class ScheduleFragment extends Fragment {
 

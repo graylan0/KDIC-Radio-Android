@@ -1,10 +1,10 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import static android.view.animation.Animation.RELATIVE_TO_SELF;
 
 public abstract class Constants {
-    public static final String STREAM_URL = "http://kdic.grinnell.edu/stream";
-    public static final String SCHEDULE_URL = "http://prabirmsp.com/kdic.json";
+    public static final String STREAM_URL = "http://178.63.128.13:8000/live.mp3";
+    public static final String SCHEDULE_URL = "http://vps133776.vps.ovh.ca/kdic.json";
 
     public static final String ACTION_STREAM_PLAY_PAUSE = "edu.grinnell.kdic.action.PLAY_PAUSE";
     public static final String ACTION_STOP_RADIO_SERVICE = "edu.grinnell.kdic.action.STOP_RADIO";

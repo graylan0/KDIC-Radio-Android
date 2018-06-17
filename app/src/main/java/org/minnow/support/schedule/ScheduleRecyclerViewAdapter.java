@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
@@ -14,9 +14,9 @@ import android.view.animation.ScaleAnimation;
 import android.widget.ImageView;
 import android.widget.TextView;
 import java.util.ArrayList;
-import edu.grinnell.kdic.Constants;
-import edu.grinnell.kdic.Favorites;
-import edu.grinnell.kdic.R;
+import org.minnow.support.Constants;
+import org.minnow.support.Favorites;
+import org.minnow.support.R;
 
 public class ScheduleRecyclerViewAdapter extends RecyclerView.Adapter<ScheduleRecyclerViewAdapter.ViewHolder> {
   private static final String TAG = ScheduleRecyclerViewAdapter.class.getSimpleName();

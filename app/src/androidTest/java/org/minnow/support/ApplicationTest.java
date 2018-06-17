@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

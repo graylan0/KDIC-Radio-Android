@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.content.res.Resources;
 import android.os.Bundle;
@@ -9,14 +9,14 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import edu.grinnell.kdic.schedule.Schedule;
-import edu.grinnell.kdic.schedule.ScheduleRecyclerItem;
-import edu.grinnell.kdic.schedule.ScheduleRecyclerViewAdapter;
+import org.minnow.support.schedule.Schedule;
+import org.minnow.support.schedule.ScheduleRecyclerItem;
+import org.minnow.support.schedule.ScheduleRecyclerViewAdapter;
 import java.util.ArrayList;
 import java.util.Set;
 
-import static edu.grinnell.kdic.schedule.ScheduleRecyclerViewAdapter.CARD;
-import static edu.grinnell.kdic.schedule.ScheduleRecyclerViewAdapter.SECTION_HEADER;
+import static org.minnow.support.schedule.ScheduleRecyclerViewAdapter.CARD;
+import static org.minnow.support.schedule.ScheduleRecyclerViewAdapter.SECTION_HEADER;
 
 /**
  * A {@link Fragment} to display favorited radio stations

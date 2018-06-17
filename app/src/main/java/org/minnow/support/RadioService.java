@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -16,12 +16,12 @@ import java.io.IOException;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import edu.grinnell.kdic.schedule.Schedule;
+import org.minnow.support.schedule.Schedule;
 
 import static android.media.AudioManager.*;
 import static android.media.AudioManager.OnAudioFocusChangeListener;
 import static android.widget.Toast.*;
-import static edu.grinnell.kdic.Constants.*;
+import static org.minnow.support.Constants.*;
 
 import android.net.wifi.WifiManager;
 

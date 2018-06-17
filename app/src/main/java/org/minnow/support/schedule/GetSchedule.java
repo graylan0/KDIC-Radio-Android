@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -14,8 +14,8 @@ import org.json.JSONException;
 
 import java.io.IOException;
 
-import edu.grinnell.kdic.Constants;
-import edu.grinnell.kdic.NetworkState;
+import org.minnow.support.Constants;
+import org.minnow.support.NetworkState;
 
 /**
  * Created by [pradhanp] on 10/11/15.

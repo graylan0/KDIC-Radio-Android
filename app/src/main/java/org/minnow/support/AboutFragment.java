@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

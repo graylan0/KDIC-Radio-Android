@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 public class ScheduleRecyclerItem {
     private int mViewType;

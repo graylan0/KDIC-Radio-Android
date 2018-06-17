@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

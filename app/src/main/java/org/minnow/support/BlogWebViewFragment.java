@@ -1,4 +1,4 @@
-package edu.grinnell.kdic;
+package org.minnow.support;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class BlogWebViewFragment extends Fragment {
 
     public static final String TAG = "BlogFragment";
-    public static final String BLOG_URL = "http://kdic.grinnell.edu/";
+    public static final String BLOG_URL = "http://mspwaves.com";
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

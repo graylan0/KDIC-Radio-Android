@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 
 import android.os.Bundle;
@@ -16,9 +16,9 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-import edu.grinnell.kdic.Constants;
-import edu.grinnell.kdic.R;
-import edu.grinnell.kdic.Show;
+import org.minnow.support.Constants;
+import org.minnow.support.R;
+import org.minnow.support.Show;
 
 public class DayScheduleActivity extends AppCompatActivity {
 

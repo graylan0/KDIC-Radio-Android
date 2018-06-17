@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.schedule;
+package org.minnow.support.schedule;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

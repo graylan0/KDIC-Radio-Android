@@ -1,4 +1,4 @@
-package edu.grinnell.kdic.visualizer;
+package org.minnow.support.visualizer;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -17,10 +17,10 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-import edu.grinnell.kdic.Favorites;
-import edu.grinnell.kdic.R;
-import edu.grinnell.kdic.Show;
-import edu.grinnell.kdic.schedule.Schedule;
+import org.minnow.support.Favorites;
+import org.minnow.support.R;
+import org.minnow.support.Show;
+import org.minnow.support.schedule.Schedule;
 
 /**
  * A placeholder fragment containing a simple view.
