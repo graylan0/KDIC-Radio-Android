@@ -1,13 +1,12 @@
-# KDIC Android
+# MSP-Waves-App Forked from KDIC Radio
 
-## KDIC Streaming App
+## MSP-Waves, Conveient Radio Streaming Application
 
-The KDIC Streaming App is a convenient way for anyone to tune into their
-favorite radio station, KDIC, based out of Grinnell College, IA.
+MSP-Waves is a global internet radio station, you can find more out about it at minnowsupport.org or mspwaves.com
 
 You can obtain the source with the following command:
 ```shell
-git clone git://github.com/GrinnellAppDev/KDIC-Radio-Android.git
+git clone git://github.com/graylan0/KDIC-Radio-Android.git
 ```
 
 If you would like to contribute, shoot us a pull request.  
